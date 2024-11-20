@@ -1,0 +1,40 @@
+body {
+    font-family: "Garamond", serif;
+    background-color: papayawhip;
+	padding: 30px;
+}
+
+h1 {
+    padding: 0 0 0 50px;
+}
+
+table {
+    padding: 20px;
+}
+
+td {
+    padding: 20px;
+}
+
+.class {
+    left: auto;
+    right: auto;
+}
+
+.main {
+    text-align: center;
+}
+
+.nav-main {
+    text-align: right;
+    letter-spacing: 5px;
+	padding: 0 50px 0 0;
+}
+
+.main-pic {
+	border: solid black;
+}
+
+a, a:visited, a:link {
+    text-decoration: none;
+}
